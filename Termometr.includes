@@ -1,0 +1,13 @@
+.
+/home/artur/Arduino/libraries/OneWire
+/home/artur/Arduino/libraries/ArduinoJson
+/home/artur/Arduino/libraries/DallasTemperature
+/home/artur/Arduino/libraries/LiquidCrystal_I2C_1602
+/home/artur/Arduino/hardware/esp8266/cores/esp8266
+/home/artur/Arduino/hardware/esp8266/libraries/ESP8266WebServer/src
+/home/artur/Arduino/hardware/esp8266/libraries/ESP8266WiFi/src
+/home/artur/Arduino/hardware/esp8266/libraries/ESP8266mDNS
+/home/artur/Arduino/libraries/NtpClientLib/src
+/home/artur/Arduino/libraries/Time
+
+data
